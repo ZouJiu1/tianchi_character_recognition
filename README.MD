@@ -1,6 +1,4 @@
 # Tianchi character recognition
-### torch==1.6.0
-### tensorflow-gpu==1.13.1
 ### 原始github：https://github.com/eriklindernoren/PyTorch-YOLOv3
 [天池比赛链接](https://tianchi.aliyun.com/competition/entrance/531795/introduction?spm=5176.12281925.0.0.5c0f7137PjPicq) <br>
 
